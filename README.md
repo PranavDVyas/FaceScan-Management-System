@@ -1,4 +1,4 @@
-# SmartbrainFinalProject
+# FaceScan-Management-System
 This project demonstrates the use of both front end and back end. 
 The smartbrain folder consists the files of frontend.
 The smartbrainapi folder consists the files of backend.
